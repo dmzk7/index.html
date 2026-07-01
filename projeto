@@ -1,0 +1,5 @@
+https://github.com/dmzk7/index.html.git
+cd index.html
+git add index.html
+git commit -m "Adiciona index.html"
+git push origin main
